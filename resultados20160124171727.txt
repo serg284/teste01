@@ -1,0 +1,62 @@
+Teatro | Sala Um | 12 | 20
+5 | 1 | N
+L | C | L | L | R | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L 
+R | R | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L 
+L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L 
+L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L 
+L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L 
+L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L 
+L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L 
+L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L 
+L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L 
+L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L 
+L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L 
+L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L 
+236
+Antonio | Reserva | 2 | 1
+Daniel | Reserva | 1 | 5
+Elias | Reserva | 2 | 2
+5 | 20
+
+Teatro | Sala Um | 12 | 20
+6 | 1 | N
+L | L | L | L | R | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L 
+L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L 
+L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L 
+L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L 
+L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L 
+L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L 
+L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L 
+L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L 
+L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L 
+L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L 
+L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L 
+L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L | L 
+239
+Daniel | Reserva | 1 | 5
+0 | 5
+
+Cinema | Sala Dois | 2 | 6
+5 | 1 | M
+L | L | C | L | L | L 
+L | L | L | L | L | L 
+11
+4 | 4
+
+Cinema | Sala Dois | 2 | 6
+5 | 1 | N
+C | L | L | L | L | L 
+L | R | R | R | L | R 
+7
+Carlos | Reserva | 2 | 2 | 2 | 3 | 2 | 4
+Guilherme | Reserva | 2 | 6
+4 | 20
+
+Cinema | Sala Tres | 2 | 8
+6 | 1 | N
+C | L | L | L | L | L | L | L 
+L | L | L | L | L | L | L | L 
+15
+4 | 4
+
+17 | 53

@@ -1,0 +1,4 @@
+1 : Sala Um : 12 : 20 : Teatro : 5
+2 : Sala Dois : 2 : 6 : Cinema : 4
+3 : Sala Tres : 2 : 8 : Cinema : 4
+4 : Sala Quatro : 2 : 8 : Cinema : 4
